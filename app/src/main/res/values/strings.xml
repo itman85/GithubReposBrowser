@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReposBrowser</string>
+    <string name="text_loading">Loading</string>
+    <string name="text_info">These are my github repos</string>
+</resources>
