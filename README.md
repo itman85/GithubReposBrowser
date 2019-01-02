@@ -5,6 +5,7 @@
 - Display repo item info  with owner avatar and repo name.
 - Display repo detail info when click onto repo items list.
 - Search repositories by name, this will search all repo store in local db.
+
 2.Techniques
 - I built this app used CLEAN architecture combine with MVVM pattern.
 - Using mockito, mockwebserver to write unit tests for domain layer and data layer
